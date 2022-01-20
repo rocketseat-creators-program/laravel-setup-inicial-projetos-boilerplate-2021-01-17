@@ -1,15 +1,13 @@
-# Laravel 8 Boilerplate
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-## Tecnologias utilizadas
+# Laravel: setup inicial para agilizar a criação de novos projetos
 
-- Laravel 8
-- TailwindCSS 3.x
-- AlpineJS
-- Livewire 2.9x
+Quantas vezes você já iniciou um projeto novo e precisou configurar todas as dependências de novo, perdendo alguns minutos ou até horas para configurar o setup ideal para aquele projeto? Então, nessa aula você irá aprender a criar um boilerplate e utilizá-lo dentro do Github para facilitar a sua vida ao criar novos projetos de diferentes tipos.
 
-## Como utilizar esse projeto?
+Bora? 🚀
 
-## Qual a estrutura do projeto?
+## Expert
 
-
-## Como criar novos componentes/páginas?
+| [<img src="https://avatars.githubusercontent.com/u/671670?v=4" width="75px;"/>](https://github.com/patrickmaciel) |
+| :---------------------------------------------------------------------------------------------------------------: |
+|                                [Patrick Maciel](https://github.com/patrickmaciel)                                 |
